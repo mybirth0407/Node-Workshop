@@ -1,0 +1,25 @@
+{
+  "name": "node-workshop",
+  "version": "1.0.0",
+  "description": "동북아 공개 SW 포럼 node js 실습",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mybirth0407/Node.js-Workshop.git"
+  },
+  "author": "Yedarm Seong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mybirth0407/Node.js-Workshop/issues"
+  },
+  "homepage": "https://github.com/mybirth0407/Node.js-Workshop#readme",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "nedb": "^1.8.0",
+    "socket.io": "^1.5.1",
+    "socket.io-client": "^1.5.1"
+  }
+}
